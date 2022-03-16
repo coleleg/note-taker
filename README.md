@@ -1,5 +1,6 @@
 # Note Taker
-[Note Taker](https://young-island-76408.herokuapp.com/)
+[Click Here to Access the Website](https://young-island-76408.herokuapp.com/)
+
 ![Screenshot (36)](https://user-images.githubusercontent.com/15861137/158494803-9d2e0235-5524-4896-82e0-71fdf3bebc21.png)
 
  # Table of Contents
