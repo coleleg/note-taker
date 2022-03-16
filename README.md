@@ -15,7 +15,7 @@
   * [Questions](#questions)
 
   ## Description
-  This is a simple application that generates allows users to create, save and delete notes.  The application uses a JSON database file, an Express.js backend and is deployed to Heroku.
+  This is a simple application that allows users to create, save and delete notes.  Note Taker uses a JSON database file, an Express.js server and is deployed to Heroku.
  
   ## Installation
   You can clone this repository from [github.com/coleleg/note-taker](https://github.com/coleleg/note-taker).  Run `npm i` to install related packages.
